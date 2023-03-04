@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.herosection_bg{
+  background-color: #F5B05F
+}
